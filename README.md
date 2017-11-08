@@ -11,7 +11,9 @@ nix-build -A ghc.bug
 
 ```
 
-Navigate to `localhost:3800`, open network tab
+Navigate to `localhost:3800`, open network tab:
+
+![network tab](scrot.png)
 
 This doesn't happen with the ghcjs build:
 
